@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.netbeans.jade.syntaxhighlighter
+OpenIDE-Module-Layer: org/netbeans/jade/syntaxhighlighter/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/netbeans/jade/syntaxhighlighter/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

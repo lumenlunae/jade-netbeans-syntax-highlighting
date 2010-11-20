@@ -1,0 +1,6 @@
+!!! 5
+html(lang='en')
+	div#foo.bar.bat
+		| test@#@
+		| ohakjah
+	#user #{name}

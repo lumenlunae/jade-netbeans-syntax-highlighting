@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+
+    <fontcolor name="class"           foreColor="ff006a00" default="default"/>
+    <fontcolor name="name"           foreColor="ff0000ef" default="default"/>
+    <fontcolor name="variable"           foreColor="ffce7900" default="default"/>
+    <fontcolor name="key"           foreColor="ffc4004a" default="default"/>
+    <fontcolor name="id"              foreColor="ff11acdf" default="default">
+      <font style="bold italic" />
+      </fontcolor>
+    <fontcolor name="code"            foreColor="ffff0000" default="default"/>
+    <fontcolor name="brace"            foreColor="ffa65a00" default="default"/>
+    <fontcolor name="value"            foreColor="ff2b953a" default="default"/>
+    <fontcolor name="doctype"            foreColor="ff848284" default="default"/>
+    <fontcolor name="comment"            foreColor="ff949694" default="default"/>
+    <fontcolor name="servercomment"            foreColor="ffb5b7b5" default="default"/>
+</fontscolors>
+
