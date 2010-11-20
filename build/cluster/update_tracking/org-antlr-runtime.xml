@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module codename="org.antlr.runtime">
-    <module_version install_time="1290291243660" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1290293192668" last="true" origin="installer" specification_version="1.0">
         <file crc="1232911380" name="config/Modules/org-antlr-runtime.xml"/>
         <file crc="1774618612" name="modules/ext/antlr-runtime-3.2.jar"/>
-        <file crc="301044873" name="modules/org-antlr-runtime.jar"/>
+        <file crc="2781835929" name="modules/org-antlr-runtime.jar"/>
     </module_version>
 </module>

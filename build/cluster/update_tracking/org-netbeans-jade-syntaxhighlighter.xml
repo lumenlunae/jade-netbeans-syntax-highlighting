@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module codename="org.netbeans.jade.syntaxhighlighter">
-    <module_version install_time="1290291245425" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1290293203245" last="true" origin="installer" specification_version="1.0">
         <file crc="2363985241" name="config/Modules/org-netbeans-jade-syntaxhighlighter.xml"/>
-        <file crc="1832182984" name="modules/org-netbeans-jade-syntaxhighlighter.jar"/>
+        <file crc="2548909220" name="modules/org-netbeans-jade-syntaxhighlighter.jar"/>
     </module_version>
 </module>

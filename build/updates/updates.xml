@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.6//EN" "http://www.netbeans.org/dtds/autoupdate-catalog-2_6.dtd">
+<module_updates timestamp="44/46/22/20/11/2010">
+
+
+<module autoload="true" codenamebase="org.antlr.runtime" distribution="org-antlr-runtime.nbm" downloadsize="47757" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2010/11/20" targetcluster="jadeeditor">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.antlr.runtime" OpenIDE-Module-Implementation-Version="101120" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="ANTLR" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.0"/>
+    
+</module>
+
+<module codenamebase="org.netbeans.jade.filetype" distribution="org-netbeans-jade-filetype.nbm" downloadsize="5456" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2010/11/20" targetcluster="jadeeditor">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.netbeans.jade.filetype" OpenIDE-Module-Implementation-Version="101120" OpenIDE-Module-Java-Dependencies="Java &gt; 1.6" OpenIDE-Module-Module-Dependencies="org.openide.awt &gt; 7.23.1, org.openide.filesystems &gt; 7.38.2, org.openide.loaders &gt; 7.16.1, org.openide.nodes &gt; 7.16.1, org.openide.text &gt; 6.30.1, org.openide.util &gt; 8.6.1, org.openide.util.lookup &gt; 8.3.1, org.openide.windows &gt; 6.33.1" OpenIDE-Module-Name="Jade File Type" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.0"/>
+    
+</module>
+
+<module codenamebase="org.netbeans.jade.syntaxhighlighter" distribution="org-netbeans-jade-syntaxhighlighter.nbm" downloadsize="10448" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2010/11/20" targetcluster="jadeeditor">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.netbeans.jade.syntaxhighlighter" OpenIDE-Module-Implementation-Version="101120" OpenIDE-Module-Java-Dependencies="Java &gt; 1.6" OpenIDE-Module-Module-Dependencies="org.antlr.runtime &gt; 1.0, org.netbeans.modules.lexer/2 &gt; 1.35.1.1, org.openide.util &gt; 8.6.1, org.openide.util.lookup &gt; 8.3.1" OpenIDE-Module-Name="Jade Syntax Highlighter" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.0"/>
+    
+</module>
+
+<license name="AD9FBBC9" url="licenses/AD9FBBC9.license"/>
+</module_updates>
+
