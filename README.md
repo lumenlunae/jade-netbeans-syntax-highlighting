@@ -1,6 +1,6 @@
 # Jade Syntax Highligthing for Netbeans
 
-For use with Jade - (http://jade-lang.com/)[http://jade-lang.com/)
+For use with Jade - [http://jade-lang.com/](http://jade-lang.com/)
 
 While using Jade in Netbeans for Windows, I got annoyed with the lack of syntax highlighting. 
 Following the [syntax highlighting tutorial on Netbeans](http://wiki.netbeans.org/SyntaxColoringANTLR) I whipped up this
@@ -12,11 +12,11 @@ And as a disclaimer, I really have no idea what I'm doing, so please bear with m
 
 The .nbm files are located in
 	
-	/build/updates/**org-netbeans-jade-filetype.nbm**
+	/build/updates/org-netbeans-jade-filetype.nbm
 
 and
 	
-	/build/updates/**org-netbeans-jade-syntaxhighlighter.nbm**
+	/build/updates/org-netbeans-jade-syntaxhighlighter.nbm
 	
 
 ## License 
