@@ -12,11 +12,11 @@ And as a disclaimer, I really have no idea what I'm doing, so please bear with m
 
 The .nbm files are located in
 	
-	/build/updates/**org-netbeans-jade-filetype.nbm**
+	/build/updates/org-netbeans-jade-filetype.nbm
 
 and
 	
-	/build/updates/**org-netbeans-jade-syntaxhighlighter.nbm**
+	/build/updates/org-netbeans-jade-syntaxhighlighter.nbm
 	
 
 ## License 
